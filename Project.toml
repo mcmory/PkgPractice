@@ -1,0 +1,11 @@
+name = "PkgPractice"
+uuid = "e84a06b7-2611-4e47-893b-ca776b71e2cd"
+authors = ["mcmory <60661784+mcmory@users.noreply.github.com>"]
+version = "1.0.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+[compat]
+DataFrames = "0.21, 0.22"
+julia = "1.6"
